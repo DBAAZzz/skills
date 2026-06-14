@@ -11,8 +11,8 @@
 ## 安装
 
 ```bash
-pnpx skills add DBAAZzz/<repo> --skill='*'        # 全部，加 -g 装到全局
-pnpx skills add DBAAZzz/<repo> --skill=<name>     # 单个
+pnpx skills add DBAAZzz/skills --skill='*'        # 全部，加 -g 装到全局
+pnpx skills add DBAAZzz/skills --skill=<name>     # 单个
 ```
 
 编写规范见 [AGENTS.md](AGENTS.md)。
