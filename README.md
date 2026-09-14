@@ -6,6 +6,7 @@
 
 | Skill | 说明 |
 |-------|------|
+| [code-ablation](skills/code-ablation) | 严苛自审与极简重构（代码消融）：切换架构师视角做减法，剔除过度设计与无效防御，契约驱动测试重构，交付精简实现 |
 | [code-comments](skills/code-comments) | 代码注释规范：函数外注释给调用者、函数内注释给维护者，只讲 why 不讲 what |
 | [pre-mortem](skills/pre-mortem) | 技术方案/现有代码的「事前验尸」：假设它已经失败，从失败的未来倒推隐患，挂代码证据、按失败原型分级，只诊断不修复 |
 
