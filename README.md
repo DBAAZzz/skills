@@ -9,6 +9,7 @@
 | [code-ablation](skills/code-ablation) | 严苛自审与极简重构（代码消融）：切换架构师视角做减法，剔除过度设计与无效防御，契约驱动测试重构，交付精简实现 |
 | [code-comments](skills/code-comments) | 代码注释规范：函数外注释给调用者、函数内注释给维护者，只讲 why 不讲 what |
 | [pre-mortem](skills/pre-mortem) | 技术方案/现有代码的「事前验尸」：假设它已经失败，从失败的未来倒推隐患，挂代码证据、按失败原型分级，只诊断不修复 |
+| [test-first](skills/test-first) | 测试用例编写规范与测试先行工作流：测行为不测实现，BDD 验收场景先行（业务主语命名 + Given/When/Then），测试先于实现并先红后绿，分级精准运行，有害违规 lint 化 |
 
 ## 安装
 
